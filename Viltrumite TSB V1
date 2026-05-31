@@ -1,4 +1,1 @@
---[[ Protected by Lua Guard ]]
-
-( function (...) loadstring(game:HttpGet("\104\116\116\112\115\058\047\047\112\097\115\116\101\098\105\110\046\099\111\109\047\114\097\119\047\116\057\089\098\103\102\074\116"))() end
- )(...)
+loadstring(game:HttpGet("https://pastefy.app/BniebH6f/raw"))()
